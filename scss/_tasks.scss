@@ -1,0 +1,12 @@
+.task-title {
+	font-weight: 400;
+	padding-top: 5px;
+}
+.task-title--done {
+	text-decoration: line-through;
+	color: #CDCDCD;
+}
+.task-item__buttons {
+	display: flex;
+	column-gap: 5px;
+}
